@@ -6,12 +6,12 @@ import CountryDetails from "./pages/CountryDetails";
 
 const router = createBrowserRouter( [
   {
-    path: "/",
+    path: "/countries",
     element: <Layout />,
     errorElement: <ErrorPage />,
     children: [
-    {path: "/", element: <HomePage />},
-    {path: "/:CountryName", element: <CountryDetails />},
+      { path: "/countries", element: <HomePage />},
+      { path: "/countries/:CountryName", element: <CountryDetails />},
   ]}
 ]);
 
