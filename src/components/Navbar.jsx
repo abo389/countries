@@ -16,7 +16,7 @@ export default function Navbar ()
   }
   return <nav className="navbar bg-base-100">
     <div className="flex-1">
-      <Link to='/' className="text-2xl font-bold cursor-pointer">Where in the world?</Link>
+      <Link to='/countries' className="text-2xl font-bold cursor-pointer">Where in the world?</Link>
     </div>
     <div className="flex-none">
       <label className="swap swap-rotate">

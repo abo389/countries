@@ -10,7 +10,7 @@ export default function CountryDetails ()
     ( item ) => DUMMY_DATA.find( ( country ) => country.alpha3Code === item )
   );
   return <>
-    <Link to="/" className="btn btn-neutral my-16">
+    <Link to="/countries" className="btn btn-neutral my-16">
       <svg
         className="fill-current"
         xmlns="http://www.w3.org/2000/svg"
