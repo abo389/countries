@@ -45,7 +45,7 @@ export default function CountryDetails ()
             {
               borderCountries?.map( ( item ) => (
               <Link
-                to={ `/${ item.alpha3Code }` }
+                  to={ `/countries/${ item.alpha3Code }` }
                 key={ item.name }
                   className="btn btn-neutral">
                 { item.name }
