@@ -22,7 +22,7 @@ export default function CountryDetails ()
       Back
     </Link>
     <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-10">
-      <img className="w-full h-full object-cover" src={ country.flag } alt={ country.name } />
+      <img className="w-full h-full object-contain" src={ country.flag } alt={ country.name } />
       <div>
         <h1 className="text-3xl font-bold my-8">{ country.name }</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
