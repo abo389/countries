@@ -1,7 +1,6 @@
 # Countries
 
-## 🚀 Demo
-   **Live URL**: https://abo389.github.io/countries/
+## 🚀 Demo  **Live URL**: https://abo389.github.io/countries/
  - [![](https://markdown-videos-api.jorgenkh.no/vimeo/1051031882%2F208557f401?width=320&height=180&filetype=jpeg)](https://vimeo.com/1051031882/208557f401)
 
 ---
@@ -25,23 +24,13 @@ The **Countries** project provides comprehensive information about various count
 
 ## 🖥️ Tech Stack
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- **Semantic HTML5 markup** - Structured content with modern HTML5 elements.
+- **CSS Custom Properties** - Customizable and reusable CSS variables for design flexibility.
+- **[React](https://reactjs.org/)** - A JavaScript library for building user interfaces.
+- **[React Router](https://reactrouter.com/)** - Declarative routing for React apps.
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework for custom designs.
+- **[DaisyUI](https://daisyui.com/)** - Tailwind CSS component library for pre-styled components.
 
----
-
-## 📧 Contact
-For questions or feedback:
-
-- **Name**: Abdulrahman Atif
-- **Email**: [atf389@gmail.com](mailto:atf389@gmail.com)
-- **Linkedin**: [https://www.linkedin.com/in/abdulrahman-atef-166697216](https://www.linkedin.com/in/abdulrahman-atef-166697216/)
 
 ---
 
@@ -61,9 +50,20 @@ To set up the project locally, follow these steps:
    ```bash
    npm install
    ```
-   
+
 3. **Start the development server:**
 
    ```bash
    npm run dev
    ```
+
+   
+---
+
+## 📧 Contact
+For questions or feedback:
+
+- **Name**: Abdulrahman Atif
+- **Email**: [atf389@gmail.com](mailto:atf389@gmail.com)
+- **Linkedin**: [https://www.linkedin.com/in/abdulrahman-atef-166697216](https://www.linkedin.com/in/abdulrahman-atef-166697216/)
+   
