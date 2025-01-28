@@ -41,8 +41,8 @@ The **Countries** project provides comprehensive information about various count
 For questions or feedback:
 
 - **Name**: Abdulrahman Atif
-- **Email**: ![email](atf389@gmail.com)
-- **Linkedin**: ![](https://www.linkedin.com/in/abdulrahman-atef-166697216/)
+- **Email**: ![atf389@gmail.com](atf389@gmail.com)
+- **Linkedin**: ![https://www.linkedin.com/in/abdulrahman-atef-166697216](https://www.linkedin.com/in/abdulrahman-atef-166697216/)
 
 ---
 
