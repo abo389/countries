@@ -1,5 +1,1 @@
-# cool-beans
-
-https://www.youtube.com/watch?v=OQ2jasDRDT0
-
-Press play to see the video.
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
