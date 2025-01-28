@@ -9,26 +9,40 @@ The **Countries** project provides comprehensive information about various count
 ---
 
 ## 🚀 Demo
-Experience the live version of the application:
-**Live URL**: https://abo389.github.io/countries/
+- **Live URL**: https://abo389.github.io/countries/
 
 ---
 
 ## 🌟 Features
 
-- **Country Codes:** Access to ISO-639 and ISO-3166 country codes.
-- **Phone Codes:** ITU-T E.164 international dialing codes.
-- **Currency Information:** ISO-4217 currency designators.
-- **Additional Data:** Country capitals, UN M.49 codes, and IANA ccTLD country domains.
+- See all countries from the API on the homepage
+- Search for a country using an `input` field
+- Filter countries by region
+- Click on a country to see more detailed information on a separate page
+- Click through to the border countries on the detail page
+- Toggle the color scheme between light and dark mode *(optional)*
 
 ---
 
 ## 🖥️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** [Specify if applicable]
-- **Database:** [Specify if applicable]
-- **Others:** [Specify any other technologies or libraries used]
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
+
+---
+
+## 📧 Contact
+For questions or feedback:
+
+- **Name**: Abdulrahman Atif
+- **Email**: ![email](atf389@gmail.com)
+- **Linkedin**: ![](https://www.linkedin.com/in/abdulrahman-atef-166697216/)
 
 ---
 
