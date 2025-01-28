@@ -1,14 +1,13 @@
 # Countries
 
-## 🚀 Demo  **Live URL**: https://abo389.github.io/countries/
- - [![](https://markdown-videos-api.jorgenkh.no/vimeo/1051031882%2F208557f401?width=320&height=180&filetype=jpeg)](https://vimeo.com/1051031882/208557f401)
+## 🚀 Demo : https://abo389.github.io/countries/
+  [![](https://markdown-videos-api.jorgenkh.no/vimeo/1051031882%2F208557f401?width=320&height=180&filetype=jpeg)](https://vimeo.com/1051031882/208557f401)
 
 ---
 
 ## 📖 Description
 
-The **Countries** project provides comprehensive information about various countries, including country codes, phone codes, and more. This tool is ideal for applications that require standardized country data.
-
+This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 ---
 
 ## 🌟 Features
