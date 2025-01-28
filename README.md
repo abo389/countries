@@ -1,7 +1,7 @@
 # Countries
 
 ## 🚀 Demo
-- **Video** [![](https://markdown-videos-api.jorgenkh.no/vimeo/1051031882%2F208557f401?width=320&height=180&filetype=jpeg)](https://vimeo.com/1051031882/208557f401)
+- [![](https://markdown-videos-api.jorgenkh.no/vimeo/1051031882%2F208557f401?width=320&height=180&filetype=jpeg)](https://vimeo.com/1051031882/208557f401)
 - **Live URL**: https://abo389.github.io/countries/
 
 ---
@@ -40,7 +40,7 @@ The **Countries** project provides comprehensive information about various count
 For questions or feedback:
 
 - **Name**: Abdulrahman Atif
-- **Email**: [atf389@gmail.com](atf389@gmail.com)
+- **Email**: [atf389@gmail.com](mailto:atf389@gmail.com)
 - **Linkedin**: [https://www.linkedin.com/in/abdulrahman-atef-166697216](https://www.linkedin.com/in/abdulrahman-atef-166697216/)
 
 ---
@@ -54,4 +54,16 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/abo389/countries.git
    cd countries
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+   
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
    ```
