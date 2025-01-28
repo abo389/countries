@@ -1,15 +1,14 @@
 # Countries
 
-[![](https://markdown-videos-api.jorgenkh.no/vimeo/1051031882%2F208557f401?width=320&height=180&filetype=jpeg)](https://vimeo.com/1051031882/208557f401)
+## 🚀 Demo
+- **Video** [![](https://markdown-videos-api.jorgenkh.no/vimeo/1051031882%2F208557f401?width=320&height=180&filetype=jpeg)](https://vimeo.com/1051031882/208557f401)
+- **Live URL**: https://abo389.github.io/countries/
+
+---
 
 ## 📖 Description
 
 The **Countries** project provides comprehensive information about various countries, including country codes, phone codes, and more. This tool is ideal for applications that require standardized country data.
-
----
-
-## 🚀 Demo
-- **Live URL**: https://abo389.github.io/countries/
 
 ---
 
@@ -41,8 +40,8 @@ The **Countries** project provides comprehensive information about various count
 For questions or feedback:
 
 - **Name**: Abdulrahman Atif
-- **Email**: ![atf389@gmail.com](atf389@gmail.com)
-- **Linkedin**: ![https://www.linkedin.com/in/abdulrahman-atef-166697216](https://www.linkedin.com/in/abdulrahman-atef-166697216/)
+- **Email**: [atf389@gmail.com](atf389@gmail.com)
+- **Linkedin**: [https://www.linkedin.com/in/abdulrahman-atef-166697216](https://www.linkedin.com/in/abdulrahman-atef-166697216/)
 
 ---
 
