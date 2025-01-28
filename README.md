@@ -3,13 +3,12 @@
 ## 🚀 Demo : https://abo389.github.io/countries/
   [![](https://markdown-videos-api.jorgenkh.no/vimeo/1051031882%2F208557f401?width=320&height=180&filetype=jpeg)](https://vimeo.com/1051031882/208557f401)
 
----
 
 ## 📖 Description
 
 This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
 
----
+
 
 ## 🌟 Features
 
@@ -20,7 +19,6 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode *(optional)*
 
----
 
 ## 🖥️ Tech Stack
 
@@ -31,8 +29,6 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework for custom designs.
 - **[DaisyUI](https://daisyui.com/)** - Tailwind CSS component library for pre-styled components.
 
-
----
 
 ## ⚙️ Installation
 
@@ -58,7 +54,6 @@ To set up the project locally, follow these steps:
    ```
 
    
----
 
 ## 📧 Contact
 For questions or feedback:
